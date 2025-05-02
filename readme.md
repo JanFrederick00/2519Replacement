@@ -34,6 +34,7 @@ I used some wire-wrapping wire (30AWG) and routed it underneath the daughterboar
 
 If the wrong characters are shown on screen, refer to the character generator IC's character map to find which of the six shift registers is not working and check your solder joints for missing connections or bridges.
 
+(I have written more about the build process of my own Apple 1 [here](https://www.applefritter.com/content/another-apple-1-lives))
 ## BOM
 
 The PCB uses six MC14557B shift register ICs and a 100nF decoupling capacitor for each.
